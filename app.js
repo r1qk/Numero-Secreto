@@ -46,17 +46,17 @@ alert('Atividade da aula 2')
 // =========================================
 
 //Exercício 4 (OBS: só as duas primeiras linhas já terminam o exercício)
-let saldo = prompt('Qual o seu saldo?');
-alert(`O seu saldo é de ${saldo}`);
-let add = prompt('Digite o quanto você quer adicionar.');
-alert(`Você irá adicionar ${add}`);
-let novoSaldo = Number(saldo) + Number(add)
-alert(`Se você somar ${saldo} com ${add}, ficará com ${novoSaldo}`);
+// let saldo = prompt('Qual o seu saldo?');
+// alert(`O seu saldo é de ${saldo}`);
+// let add = prompt('Digite o quanto você quer adicionar.');
+// alert(`Você irá adicionar ${add}`);
+// let novoSaldo = Number(saldo) + Number(add)
+// alert(`Se você somar ${saldo} com ${add}, ficará com ${novoSaldo}`);
 // =========================================
 
 //Exercício 5
-// let myName = prompt('Qual o seu nome?')
-// alert(`Opa, eae ${myName}`);
+let myName = prompt('Qual o seu nome?')
+alert(`Opa, eae ${myName}`);
 
 
 
