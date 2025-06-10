@@ -37,12 +37,12 @@ alert('Atividade da aula 2')
 // =========================================
 
 //Exercício 3
-// let pont = prompt('Digite a pontuação do seu jogo.')
-// if (pont >= 100) {
-//     console.log('Parabéns! Você venceu!')
-// } else {
-//     console.log('Tente novamente para ganhar.')
-// }
+let pont = prompt('Digite a pontuação do seu jogo.')
+if (pont >= 100) {
+    console.log('Parabéns! Você venceu!')
+} else {
+    console.log('Tente novamente para ganhar.')
+}
 // =========================================
 
 //Exercício 4 (OBS: só as duas primeiras linhas já terminam o exercício)
@@ -55,8 +55,8 @@ alert('Atividade da aula 2')
 // =========================================
 
 //Exercício 5
-let myName = prompt('Qual o seu nome?')
-alert(`Opa, eae ${myName}`);
+// let myName = prompt('Qual o seu nome?')
+// alert(`Opa, eae ${myName}`);
 
 
 
