@@ -23,17 +23,17 @@ alert('Atividade da aula 2')
 // =========================================
 
 //Exercício 2
-// let numero = prompt('Digite um número');
-// if (numero > 0) {
-//     alert('Seu número é positivo');
-// } else {
-//     if (numero < 0) {
-//         alert('Seu número é negativo');
-//     }
-// }
-// if (numero = 0) {
-//     alert('Seu número é 0');
-// }
+let numero = prompt('Digite um número');
+if (numero > 0) {
+    alert('Seu número é positivo');
+} else {
+    if (numero < 0) {
+        alert('Seu número é negativo');
+    }
+}
+if (numero = 0) {
+    alert('Seu número é 0');
+}
 // =========================================
 
 //Exercício 3
