@@ -43,6 +43,7 @@ if (pont >= 100) {
 } else {
     console.log('Tente novamente para ganhar.')
 }
+console.log("Simulando uma alteração!")
 // =========================================
 
 //Exercício 4 (OBS: só as duas primeiras linhas já terminam o exercício)
