@@ -23,17 +23,17 @@ alert('Atividade da aula 2')
 // =========================================
 
 //Exercício 2
-let numero = prompt('Digite um número');
-if (numero > 0) {
-    alert('Seu número é positivo');
-} else {
-    if (numero < 0) {
-        alert('Seu número é negativo');
-    }
-}
-if (numero = 0) {
-    alert('Seu número é 0');
-}
+// let numero = prompt('Digite um número');
+// if (numero > 0) {
+//     alert('Seu número é positivo');
+// } else {
+//     if (numero < 0) {
+//         alert('Seu número é negativo');
+//     }
+// }
+// if (numero = 0) {
+//     alert('Seu número é 0');
+// }
 // =========================================
 
 //Exercício 3
@@ -46,12 +46,12 @@ if (numero = 0) {
 // =========================================
 
 //Exercício 4 (OBS: só as duas primeiras linhas já terminam o exercício)
-// let saldo = prompt('Qual o seu saldo?');
-// alert(`O seu saldo é de ${saldo}`);
-// let add = prompt('Digite o quanto você quer adicionar.');
-// alert(`Você irá adicionar ${add}`);
-// let novoSaldo = Number(saldo) + Number(add)
-// alert(`Se você somar ${saldo} com ${add}, ficará com ${novoSaldo}`);
+let saldo = prompt('Qual o seu saldo?');
+alert(`O seu saldo é de ${saldo}`);
+let add = prompt('Digite o quanto você quer adicionar.');
+alert(`Você irá adicionar ${add}`);
+let novoSaldo = Number(saldo) + Number(add)
+alert(`Se você somar ${saldo} com ${add}, ficará com ${novoSaldo}`);
 // =========================================
 
 //Exercício 5
